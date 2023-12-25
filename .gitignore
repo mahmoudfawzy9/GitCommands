@@ -21,7 +21,7 @@ target/
 node/
 node_modules/
 package-lock.json
-
+pom.xml
 .mta/
 *.mtar
 mta.yaml
