@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- omit in toc -->
 # Welcome to CAP Samples for Java
 
@@ -571,3 +572,7 @@ In case you have a question, find a bug, or otherwise need support, please use o
 # License
 
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+=======
+# GitCommands
+Git Recap Session
+>>>>>>> bafe74687cf693ce86fdf2e71c83333973de9b16
