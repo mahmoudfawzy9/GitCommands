@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- omit in toc -->
 # Welcome to CAP Samples for Java
 
@@ -576,3 +577,7 @@ Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This
 # GitCommands
 Git Recap Session
 >>>>>>> bafe74687cf693ce86fdf2e71c83333973de9b16
+=======
+# GitCommands
+Git Recap Session
+>>>>>>> origin/main
